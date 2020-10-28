@@ -31,8 +31,3 @@ struct BookNowButtonView: View {
     }
 }
 
-//struct BookNowButtonView_Previews: PreviewProvider {
-//    static var previews: some View {
-//        BookNowButtonView()
-//    }
-//}
